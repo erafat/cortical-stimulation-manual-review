@@ -1,0 +1,124 @@
+{
+  "edition": "Comprehensive colleague-review draft",
+  "version": "2026-09-17.1",
+  "date": "2026-09-17",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Chapter 1 — What Direct Cortical Stimulation Can Teach Us",
+      "anchor": "chapter-1"
+    },
+    {
+      "chapter": 2,
+      "title": "Chapter 2 — Stimulation Parameters, Afterdischarges, and Safety Concepts",
+      "anchor": "chapter-2"
+    },
+    {
+      "chapter": 3,
+      "title": "Chapter 3 — Interpreting Responses: From Observation to Clinical Inference",
+      "anchor": "chapter-3"
+    },
+    {
+      "chapter": 4,
+      "title": "Chapter 4 — Before Stimulation: Designing an Interpretable Session",
+      "anchor": "chapter-4"
+    },
+    {
+      "chapter": 5,
+      "title": "Chapter 5 — During Stimulation: Understanding the Patient’s Experience",
+      "anchor": "chapter-5"
+    },
+    {
+      "chapter": 6,
+      "title": "Chapter 6 — After Stimulation: Turning Observations into an Account",
+      "anchor": "chapter-6"
+    },
+    {
+      "chapter": 7,
+      "title": "Chapter 7 — Sensory and Perceptual Responses",
+      "anchor": "chapter-7"
+    },
+    {
+      "chapter": 8,
+      "title": "Chapter 8 — Body, Self, Thought, and Memory Experiences",
+      "anchor": "chapter-8"
+    },
+    {
+      "chapter": 9,
+      "title": "Chapter 9 — Affective Experience and Emotional Behavior",
+      "anchor": "chapter-9"
+    },
+    {
+      "chapter": 10,
+      "title": "Chapter 10 — Motor, Oral, Vocal, and Autonomic Manifestations",
+      "anchor": "chapter-10"
+    },
+    {
+      "chapter": 11,
+      "title": "Chapter 11 — Language, Praxis, and Higher-Order Function",
+      "anchor": "chapter-11"
+    },
+    {
+      "chapter": 12,
+      "title": "Chapter 12 — Temporal Regions: Mesial, Lateral, and Ventral Systems",
+      "anchor": "chapter-12"
+    },
+    {
+      "chapter": 13,
+      "title": "Chapter 13 — Insular, Opercular, and Cingulo-Opercular Networks",
+      "anchor": "chapter-13"
+    },
+    {
+      "chapter": 14,
+      "title": "Chapter 14 — Frontal and Motor Regions: From Experience to Action",
+      "anchor": "chapter-14"
+    },
+    {
+      "chapter": 15,
+      "title": "Chapter 15 — Cingulate, Parietal, and Occipital Regions",
+      "anchor": "chapter-15"
+    },
+    {
+      "chapter": 16,
+      "title": "Chapter 16 — Integrating Findings: What Happened, What It Means, and What Remains Open",
+      "anchor": "chapter-16"
+    },
+    {
+      "chapter": 17,
+      "title": "Chapter 17 — Stimulation Findings in Surgical Planning: Studies, Methods, and Limits",
+      "anchor": "chapter-17"
+    }
+  ],
+  "clinical_signoff": false,
+  "source_preview_sha256": "4bd68c95ffc51ad976c9f31e6e237214a13fc9411f9c1c2c53b63bf2c46c7912",
+  "files": {
+    ".github/ISSUE_TEMPLATE/chapter-review.md": {
+      "bytes": 419,
+      "sha256": "be6bdb4fbef57fb04a79c5d833395b173c66f283d2018e87f43de2aa5000afb2"
+    },
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "README.md": {
+      "bytes": 2101,
+      "sha256": "2545e00ca913ee64dcdece72d2c9d95c40d81af905ea256f87c3e93c1cf71ad7"
+    },
+    "REVIEWING.md": {
+      "bytes": 1225,
+      "sha256": "fbd43586022850bfd07ee2b881d1b185202c0eb7032874188d16b167ddddd82b"
+    },
+    "index.html": {
+      "bytes": 260105,
+      "sha256": "8f40a1f087de333f29405d22b833db9a53ef62f2487b89e5ee82f476925080d3"
+    },
+    "manuscript.md": {
+      "bytes": 189893,
+      "sha256": "7294070637ebce8eed982d3b0c030585e4cf3e3dc506ae244d3dfbf6caaf5987"
+    },
+    "robots.txt": {
+      "bytes": 26,
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+    }
+  }
+}
